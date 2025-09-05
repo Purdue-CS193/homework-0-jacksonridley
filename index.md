@@ -10,18 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 # Jackson Ridley's First CS193 Homework
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Some of my favorite things about CS193:
+- Provides helpful information for current and future courses
+- Easy to follow and understand
+- The vibe of the class is chill and inviting
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

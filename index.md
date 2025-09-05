@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 # Jackson Ridley's First CS193 Homework
 
 ### Some of my favorite things about CS193:
